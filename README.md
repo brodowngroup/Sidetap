@@ -1,3 +1,12 @@
+#So, why did Slater fork another mobile framework?
+
+The only big piece that I'll need a framework for is the settigs menu animation.
+
+* Sidetap focuses on exactly that piece of UI, which I can't find anywhere else pre-built
+* It utilizes zepto.js, which I'm already using
+
+I think ripping that piece out of Sidetap rather than reinventing myself will speed these prototypes along.
+
 #Sidetap
 
 We built Sidetap to be an easy-to-use implementation of the side navigation pattern popularized by apps like Sparrow and Facebook. It solves many common mobile development problems right out of the box. Here are some of the specific things we like about it:
