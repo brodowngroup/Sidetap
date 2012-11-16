@@ -7,6 +7,8 @@ The only big piece that I'll need a framework for is the settigs menu animation.
 
 I think ripping that piece out of Sidetap rather than reinventing myself will speed these prototypes along.
 
+[Article on Sidetap by the author](http://techtime.getharvest.com/blog/introducing-sidetap)
+
 #Sidetap
 
 We built Sidetap to be an easy-to-use implementation of the side navigation pattern popularized by apps like Sparrow and Facebook. It solves many common mobile development problems right out of the box. Here are some of the specific things we like about it:
